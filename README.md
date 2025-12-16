@@ -70,6 +70,11 @@
 
 ---
 
+![Snake animation](https://github.com/TanDat-Ho/TanDat-Ho/blob/output/github-contribution-grid-snake-dark.svg)
+
+
+---
+
 
 ## 🚀 Projects & Practice
 
