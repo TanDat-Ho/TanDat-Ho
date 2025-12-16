@@ -70,7 +70,7 @@
 
 ---
 
-![Snake animation](https://github.com/TanDat-Ho/TanDat-Ho/blob/output/github-contribution-grid-snake-dark.svg)
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=TanDat-Ho&theme=tokyo-night" />
 
 
 ---
